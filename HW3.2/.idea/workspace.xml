@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bfe5a86-87ba-45fe-bd82-ef2f581ed96d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/ECE DEMIBAS_HW0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/ECEhw0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/ECE DEMIRBAS_HW1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/ECEhw1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/homework2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/ECEhw2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OdY7ixh8gDSJYxLeKi7ETEQZJu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Ece_Demirbas/PycharmProjects/HW3.4",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests in test_hw2.py">
+    <configuration name="hw2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_hw2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_hw2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_hw2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HW3.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_hw2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_hw2.py" />
+        <item itemvalue="Python.hw2" />
+        <item itemvalue="Python.test_hw2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bfe5a86-87ba-45fe-bd82-ef2f581ed96d" name="Changes" comment="" />
+      <created>1681891760063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681891760063</updated>
+    </task>
+    <servers />
+  </component>
+</project>

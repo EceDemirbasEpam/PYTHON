@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41a8aae5-5d95-4a6e-85d6-17923e96f2a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/ECE DEMIBAS_HW0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIBAS_HW0/ECEhw0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/ECE DEMIRBAS_HW1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW1/ECEhw1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/homework2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ECE DEMIRBAS_HW2/ECEhw2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OdWrMKlMF832XfoXh8OuwWItYy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Ece_Demirbas/PycharmProjects/HW1",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="pytest in test_hw22.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HW2.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_hw22.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_hw22.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41a8aae5-5d95-4a6e-85d6-17923e96f2a3" name="Changes" comment="" />
+      <created>1681891136102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681891136102</updated>
+    </task>
+    <servers />
+  </component>
+</project>
